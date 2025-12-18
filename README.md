@@ -14,6 +14,6 @@ no real money involved for now
 - gambling
 - well developed
 
-##status
+## status
 
 breaks sometimes, i'll fix it eventually
