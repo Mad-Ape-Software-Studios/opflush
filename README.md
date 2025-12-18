@@ -5,11 +5,11 @@ it deals cards, takes bets, and decides who wins
 you don't need to trust my word, just read the code
 no real money involved for now
 
-##what this is
+## what this is
 
 - poker
 
-##what this is not
+## what this is not
 
 - gambling
 - well developed
